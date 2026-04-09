@@ -65,9 +65,11 @@ Before that, I founded **Blueberry**, a tech education startup where I trained 2
 
 ### 🐍 Contribution Snake
 
-<!-- To enable: create a GitHub Action in your profile repo using https://github.com/Platane/snk -->
-<!-- Once set up, uncomment the line below: -->
-<!-- ![Snake animation](https://github.com/RafaFuentes4/RafaFuentes4/blob/output/github-contribution-grid-snake-dark.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaFuentes4/RafaFuentes4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaFuentes4/RafaFuentes4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RafaFuentes4/RafaFuentes4/output/github-snake.svg" />
+</picture>
 
 ---
 
