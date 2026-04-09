@@ -9,7 +9,6 @@
 *Making complex technology work — whether that means clean architecture in production or clear teaching in a classroom.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfuentescantero)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafafcantero@gmail.com)
 
 </div>
 
