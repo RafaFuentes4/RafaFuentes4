@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Senior Software Engineer and Tech Lead from Málaga, Spain, with 4+ years building production systems across SaaS, energy, and fintech. Currently leading 11 engineers at **Bettergy**, where I architect our core revenue platform and multi-agent RAG support systems — serving 900+ production users and processing $30M+ in annual transactions across the energy sector.
+I'm a Senior Software Engineer and Tech Lead from Málaga, Spain, with 4+ years building production systems across SaaS, energy, and fintech. Currently leading 11 engineers at **Bettergy**, where I architect our core revenue platform and multi-agent RAG support systems — serving 900+ production users across the energy sector.
 
 Before Bettergy, I was the sole technical reviewer at **Startup Wise Guys**, assessing 300+ startups across SaaS, Fintech, and Web3 to inform €15M+ in investment decisions. Earlier, as founding engineer at **Blueberry**, I helped deliver AI and cybersecurity training to 2,000+ professionals across 20+ events.
 
